@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap);*{outline:0;padding:0;margin:0;box-sizing:border-box;font-weight:inherit}body{font-family:Roboto,sans-serif}ol,ul{list-style:none}#root{display:flex;min-height:100vh;flex-direction:column}.fade-appear,.fade-enter{opacity:0;z-index:1}.fade-appear-active,.fade-enter.fade-enter-active{opacity:1;transition:opacity .3s linear .15s}.fade-exit{opacity:1}.fade-exit.fade-exit-active{opacity:0;transition:opacity .15s linear}
+/*# sourceMappingURL=main.947c7cc3.chunk.css.map */
